@@ -17,6 +17,14 @@
 
 在这里会不定时的更新各个游戏的路由表规则，你只要下载所需的规则或规则包导入对应文件夹即可使用。
 
+## 关于两个GEOIP源
+[GEOIPCN.1](rules/BypassCNandLan.rules?raw=true)  ||   [GEOIPCN.2](rules/BypassCNandLan_someip.rules?raw=true)
+
+- GEOIPCN.1 是[Hackl0us/GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN)的完整版本
+- GEOIPCN.2 而是[0x2E/someip](https://github.com/0x2E/someip)的简化版本    
+两者在使用上一般不会有什么差距。  
+如果追求最小错误率请选择GEOIPCN.1，最求最高效率请选择GEOIPCN.2
+
 ## 规则使用方法
 
 -  [点我进入规则包下载页面](https://github.com/FQrabbit/SSTap-Rule/releases)
@@ -41,4 +49,21 @@
 
 如果项目内不存在你所需要的规则，你可以 [开 issue](https://github.com/FQrabbit/SSTap-Rule/issues/new/choose) 来请求新增规则(新增时限不确定) 或 [查看wiki教程](https://github.com/FQrabbit/SSTap-Rule/wiki) 来自己编写路由表。
   
-[常见问题](https://github.com/FQrabbit/SSTap-Rule/blob/master/FAQ.md)  
+[常见问题](https://github.com/FQrabbit/SSTap-Rule/blob/master/FAQ.md) 
+
+## Contributors 贡献者  
+Special thanks to all the contributors who have helped in this project:  
+特别感谢所有为本项目提供帮助的人员：  
+<a href="https://github.com/FQrabbit/SSTap-Rule/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=FQrabbit/SSTap-Rule" />
+</a>
+
+## Star History
+
+<a href="https://star-history.com/#FQrabbit/SSTap-Rule&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=FQrabbit/SSTap-Rule&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=FQrabbit/SSTap-Rule&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=FQrabbit/SSTap-Rule&type=Date" />
+  </picture>
+</a>

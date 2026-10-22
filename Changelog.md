@@ -1,4 +1,31 @@
 # 更新日志 Change Log
+### 2025年6月26日
+
+新增 `MapleStory-Universe,冒险岛N-迅游` 游戏规则 By @hasegawa-taku
+
+新增 `Xbox-Cloud-Gaming-UU,Xbox云游戏-UU` 游戏规则 By @hasegawa-taku
+
+### 2024年1月3日
+
+By @izumiChan16
+
+新增 `Stardew Valley,星露谷物语` 游戏规则
+
+新增 `Lethal Company,致命公司` 游戏规则
+
+### 2023年8月11日
+
+By @zhangdiming
+
+更新 `Diablo4-HK,暗黑破坏神4-亚服` 游戏规则
+
+更新 `PUBG-Asia&-Southeast-Asia,绝地求生亚服&东南亚服` 游戏规则
+
+更新 `Monster-Hunter-World,怪兽世界猎人steam版` 游戏规则
+
+### 2023年8月5日
+
+新增 `猎杀对决 亚服` 游戏规则 By @1779587460
 
 ### 2023年4月19日
 
